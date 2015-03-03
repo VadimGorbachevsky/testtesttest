@@ -1,0 +1,20 @@
+From b5fef7385d91a99d29a8d539c68ff17818d37a00 Mon Sep 17 00:00:00 2001
+From: VadimGorbachevsky <shaersorrel@gmail.com>
+Date: Mon, 2 Mar 2015 17:34:39 +0500
+Subject: [PATCH] ololo
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..0492e83
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# testtesttest
+-- 
+1.9.1
+
